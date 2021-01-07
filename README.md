@@ -23,6 +23,6 @@ Sources used:
 scraping nba data using BeautifulSoup: https://towardsdatascience.com/web-scraping-nba-stats-4b4f8c525994
 
 Tools used so far:
-Python
-    >Pandas
-    >BeautifulSoup
+* Python
+    - Pandas
+    - BeautifulSoup
